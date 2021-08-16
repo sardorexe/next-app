@@ -1,0 +1,27 @@
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: "Courier New", Courier, monospace;
+  color: rgba(0, 0, 0, 0.849);
+  margin-top: 120px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.content {
+  width: 70%;
+  margin: 80px auto;
+  text-align: center; 
+}
+
+.about {
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 0.63);
+  letter-spacing: 1.2px;
+  font-size: 14px;
+  margin: 40px 0;
+}
+

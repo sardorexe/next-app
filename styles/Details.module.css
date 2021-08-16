@@ -1,0 +1,20 @@
+.container {
+  width: 95%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.detail {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.item {
+  font-weight: 700;
+  color: #6c63ff;
+  margin-left: 6px;
+}
