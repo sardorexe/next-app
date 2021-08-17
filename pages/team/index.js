@@ -11,7 +11,7 @@ export const getStaticProps = async () => {
   };
 };
 
-export default function Team({ team }) {
+function Team({ team }) {
   return (
     <>
       <Head>
@@ -37,3 +37,5 @@ export default function Team({ team }) {
     </>
   );
 }
+
+export default Team

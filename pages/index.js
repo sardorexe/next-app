@@ -1,10 +1,10 @@
- import Head from "next/head";
+import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import Navbar from "../comps/Navbar";
 import teamImg from "../public/team.svg";
 
-export default function Home() {
+function Home() {
   return (
     <>
       <Head>
@@ -29,3 +29,5 @@ export default function Home() {
     </>
   );
 }
+
+export default Home;

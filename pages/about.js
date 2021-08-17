@@ -1,7 +1,7 @@
 import Head from "next/head";
-import styles from "../styles/About.module.css"
+import styles from "../styles/About.module.css";
 
-export default function About() {
+function About() {
   return (
     <>
       <Head>
@@ -35,3 +35,5 @@ export default function About() {
     </>
   );
 }
+
+export default About;
