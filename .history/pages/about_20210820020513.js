@@ -15,7 +15,7 @@ function About() {
         <div className={styles.content}>
           <p className={styles.about}>
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry&apos;s standard dummy text
+            industry. Lorem Ipsum has been the industry&aposs standard dummy text
             ever since the 1500s
           </p>
           <p className={styles.about}>
@@ -27,7 +27,7 @@ function About() {
           <p className={styles.about}>
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don&apos;t look even slightly
+            humour, or randomised words which don't look even slightly
             believable.
           </p>
         </div>
